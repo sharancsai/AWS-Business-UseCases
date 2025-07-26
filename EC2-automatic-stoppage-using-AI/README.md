@@ -22,7 +22,7 @@ Automated EC2 parking using AI for cost and carbon savings. Future-ready for bus
 
 ## 🗄️ Folder Structure
 ```
-smart-park-ec2/
+EC2-automatic-stoppage-using-AI/
 ├── README.md
 ├── architecture.png
 ├── main.py
